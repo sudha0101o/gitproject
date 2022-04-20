@@ -1,4 +1,6 @@
 this is the file2 is created by vi command
 after creating this is avilable in workspace
 then git add staging area
-then git commit -m(message)
+then git commit -m(message) 
+
+new line is added
